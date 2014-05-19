@@ -1,6 +1,6 @@
 {
     "name": "tomaj/nette-rollbar",
-    "description": "xxx",
+    "description": "Rollbar composer notifier for Nette framework",
     "license": "LGPL",
     "keywords": ["rollbar","error","notifier","nette"],
     "authors": [

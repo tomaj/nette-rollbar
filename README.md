@@ -6,6 +6,12 @@ Rollbar composer notifier for Nette framework
 Instalation
 ===========
 
+Install package via composer:
+
+```
+$ composer require tomaj/nette-rollbar:@dev
+```
+
 Add line to ```bootstrap.php``` for Rollbar initialization:
 
 ```
