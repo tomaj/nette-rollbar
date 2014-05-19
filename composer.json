@@ -17,8 +17,6 @@
         "rollbar/rollbar": "~0.8.1"
     },
     "autoload": {
-        "psr-0": {
-            "RollbarDebugger": "src/"
-        }
+        "classmap": ["src/"] 
     }
 }
